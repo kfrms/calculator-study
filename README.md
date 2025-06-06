@@ -10,7 +10,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-A fully responsive one-page website (design and code) inspired by a cinema encyclopedia, specifically the section about the movie Jaws. The page should feature a navigation bar that links to different sections within the same page.
+Create a basic functioning calculator using HTML, CSS, and JavaScript.
 
 ## 🧩 Features and Requirements:
 Use HTML for structure.
